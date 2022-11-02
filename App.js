@@ -32,7 +32,7 @@ function App() {
   return(
     <View style={{alignContent:'center',alignItems:'center',flex:1}}>
       <Text>
-        Hello
+        Hello Hai
       </Text>
     </View>
   );
