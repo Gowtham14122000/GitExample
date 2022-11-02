@@ -35,7 +35,7 @@ function App() {
         Hello
       </Text>
       <Text>
-        Everyonee
+        Everyone
       </Text>
     </View>
   );
